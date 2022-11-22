@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595373782562",
+    "project_id": "sistemaventas-60eed",
+    "storage_bucket": "sistemaventas-60eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595373782562:android:99d2281fe88a1a96937c7b",
+        "android_client_info": {
+          "package_name": "com.example.sistemadeventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595373782562-d78mbteo98ktqqakqjinci74ecilq69h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsT8IcZsJozROd06ZWFFtnDOIqK_yaif0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595373782562-d78mbteo98ktqqakqjinci74ecilq69h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
